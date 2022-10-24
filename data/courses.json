@@ -146,27 +146,42 @@
     },
     {
         "id": "6356bca1586aaed228b11487",
-        "category_id": "6",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 20,
-        "reviews": 0,
-        "instructor": "Nannie Vargas"
-        "topics": [],
-        "features": []
+        "category_id": "01",
+        "title": "Angular - The Complete Guide (2022 Edition)",
+        "description": "Master Angular 13 (formerly Angular 2) and build awesome, reactive web apps with the successor of Angular.js",
+        "picture": "https://i.ibb.co/CQbcZYH/close-up-image-programer-working-his-desk-office-1098-18707.webp",
+        "price": "21.99",
+        "rating": 4.6,
+        "reviews": 265,
+        "instructor": "Nannie Vargas",
+        "topics": [
+            "Develop modern, complex, responsive and scalable web applications with Angular 14",
+            "Fully understand the architecture behind an Angular application and how to use it",
+            "Use the gained, deep understanding of the Angular fundamentals to quickly establish yourself as a frontend developer",
+            "Create single-page applications with one of the most modern JavaScript frameworks out there"
+
+        ],
+        "features": [
+            "34.5 hours on-demand video",
+            "44 articles",
+            "150 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Assignments",
+            "Certificate of completion"
+
+        ]
     },
     {
         "id": "6356bca172b4a80a6a317f28",
-        "category_id": "7",
+        "category_id": "02",
         "title": "",
         "description": "",
         "picture": "http://placehold.it/32x32",
         "price": "",
         "rating": 34,
         "reviews": 0,
-        "instructor": "Pam Warner"
+        "instructor": "Pam Warner",
         "topics": [],
         "features": []
     },
