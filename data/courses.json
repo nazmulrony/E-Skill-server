@@ -175,158 +175,321 @@
     {
         "id": "6356bca172b4a80a6a317f28",
         "category_id": "02",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 34,
-        "reviews": 0,
+        "title": "Learning Python for Data Analysis and Visualization",
+        "description": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+        "picture": "https://i.ibb.co/L19xZrd/rear-view-programmer-working-all-night-long-1098-18697.webp",
+        "price": "24.99",
+        "rating": 4.5,
+        "reviews": 280,
         "instructor": "Pam Warner",
-        "topics": [],
-        "features": []
+        "topics": [
+            "Have an intermediate skill level of Python programming.",
+            "Use the Jupyter Notebook Environment.",
+            "Use the numpy library to create and manipulate arrays.",
+            "Use the pandas module with Python to create and structure data.",
+            "Learn how to work with various data formats within python, including: JSON,HTML, and MS Excel Worksheets.",
+            "Create data visualizations using matplotlib and the seaborn modules with python."
+        ],
+        "features": [
+            "21 hours on-demand video",
+            "3 articles",
+            "4 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1ab16f80e317d56da",
-        "category_id": "8",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 29,
-        "reviews": 0,
-        "instructor": "Bowen Walter"
-        "topics": [],
-        "features": []
+        "category_id": "02",
+        "title": "Machine Learning, Data Science and Deep Learning with Python",
+        "description": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
+        "picture": "https://i.ibb.co/GcvNNR8/ai-nuclear-energy-background-future-innovation-disruptive-technology-53876-129783.webp",
+        "price": "26.99",
+        "rating": 4.4,
+        "reviews": 189,
+        "instructor": "Bowen Walter",
+        "topics": [
+            "Build artificial neural networks with Tensorflow and Keras",
+            "Implement machine learning at massive scale with Apache Spark's MLLib",
+            "Classify images, data, and sentiments using deep learning",
+            "Make predictions using linear regression, polynomial regression, and multivariate regression",
+            "Data Visualization with MatPlotLib and Seaborn",
+            "Understand reinforcement learning - and how to build a Pac-Man bot"
+        ],
+        "features": [
+            "15.5 hours on-demand video",
+            "6 articles",
+            "1 downloadable resource",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1d602e8f8a398e118",
-        "category_id": "9",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 34,
-        "reviews": 0,
-        "instructor": "Diane Jackson"
-        "topics": [],
-        "features": []
+        "category_id": "02",
+        "title": "The Beginner's Guide to Artificial Intelligence (Unity 2022)",
+        "description": "A practical guide to programming non-player characters for games in the Unity Game Engine with C#",
+        "picture": "https://i.ibb.co/8ghmKM6/human-nervous-system-53876-90445.webp",
+        "price": "12.99",
+        "rating": 4.3,
+        "reviews": 144,
+        "instructor": "Diane Jackson",
+        "topics": [
+            "Design and program NPCs with C# in Unity",
+            "Explain how AI is applied in computer games",
+            "Implement AI-related Unity Asset plugins into existing projects",
+            "Work with a variety of AI techniques for developing navigation and decision making abilities in NPCs"
+        ],
+        "features": [
+            "30 hours on-demand video",
+            "17 articles",
+            "128 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca125dcaf1d20842ae9",
-        "category_id": "10",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 27,
-        "reviews": 0,
-        "instructor": "Schneider Vang"
-        "topics": [],
-        "features": []
+        "category_id": "02",
+        "title": "Data Science and Machine Learning Bootcamp with R",
+        "description": "Learn how to use the R programming language for data science and machine learning and data visualization!",
+        "picture": "https://i.ibb.co/PmBW8H0/data-inform-illustration-concept-114360-864.webp",
+        "price": "22.99",
+        "rating": 4.7,
+        "reviews": 288,
+        "instructor": "Schneider Vang",
+        "topics": [
+            "Program in R",
+            "Use R for Data Analysis",
+            "Create Data Visualizations",
+            "Use R to handle csv,excel,SQL files or web scraping",
+            "Use R to manipulate data easily",
+            "Use R for Machine Learning Algorithms",
+            "Use R for Data Science"
+        ],
+        "features": [
+            "17.5 hours on-demand video",
+            "9 articles",
+            "3 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca12c5e87bd09f897ac",
-        "category_id": "11",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 27,
-        "reviews": 0,
-        "instructor": "Henry Waller"
-        "topics": [],
-        "features": []
+        "category_id": "02",
+        "title": "Deep Learning Prerequisites: Logistic Regression in Python",
+        "description": "Data science, machine learning, and artificial intelligence in Python for students and professionals",
+        "picture": "https://i.ibb.co/FWFqz4v/technology-human-touch-background-modern-remake-creation-adam-53876-129794.webp",
+        "price": "15.99",
+        "rating": 4.6,
+        "reviews": 236,
+        "instructor": "Henry Waller",
+        "topics": [
+            "program logistic regression from scratch in Python",
+            "describe how logistic regression is useful in data science",
+            "derive the error and update rule for logistic regression",
+            "understand how logistic regression works as an analogy for the biological neuron",
+            "use logistic regression to solve real-world business problems like predicting user actions from e-commerce data and facial expression recognition",
+            "understand why regularization is used in machine learning"
+        ],
+        "features": [
+            "6.5 hours on-demand video",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1690572a7b0c09dd2",
-        "category_id": "12",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 37,
-        "reviews": 0,
-        "instructor": "Ila Myers"
-        "topics": [],
-        "features": []
+        "category_id": "02",
+        "title": "Statistics / Data Analysis in SPSS: Inferential Statistics",
+        "description": "Increase Your Data Analytic Skills – Highly Valued And Sought After By Employers",
+        "picture": "https://i.ibb.co/w0YQbHz/close-up-pen-with-tablet-table-1098-3488.webp",
+        "price": "12.99",
+        "rating": 4.7,
+        "reviews": 176,
+        "instructor": "Ila Myers",
+        "topics": [
+            "In this course, you will gain proficiency in how to analyze a number of statistical procedures in SPSS.",
+            "You will learn how to interpret the output of a number of different statistical tests",
+            "Learn how to write the results of statistical analyses using APA format"
+        ],
+        "features": [
+            "5 hours on-demand video",
+            "15 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1bc728a5eca2f47f2",
-        "category_id": "13",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 32,
-        "reviews": 0,
-        "instructor": "Olson Nunez"
-        "topics": [],
-        "features": []
+        "category_id": "03",
+        "title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
+        "description": "Build Combat for Role Playing Game (RPG) in Unity. Tutorials Cover Code Architecture & Video Game Design.",
+        "picture": "https://i.ibb.co/CQbcZYH/close-up-image-programer-working-his-desk-office-1098-18707.webp",
+        "price": "265",
+        "rating": 4.8,
+        "reviews": 336,
+        "instructor": "Olson Nunez",
+        "topics": [
+            "Create core combat mechanics for melee, ranged and special attacks.",
+            "More advanced C# techniques such as interfaces, delegates, and co-routines.",
+            "Create pathfinding systems and patrol paths for enemies and NPCs.",
+            "Make a detailed level with terrain, enemies, triggers, lighting, particles and props.",
+            "Balance the player and enemy stats (eg. health, damage, movement, attack speed, and more).",
+            "Advanced game design, project management and code architecture strategies."
+        ],
+        "features": [
+            "27.5 hours on-demand video",
+            "5 articles",
+            "15 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1aeea71fb993fda9a",
-        "category_id": "14",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 32,
-        "reviews": 0,
-        "instructor": "Annie Cochran"
-        "topics": [],
-        "features": []
+        "category_id": "03",
+        "title": "Complete C# Unity Game Developer 3D",
+        "description": "Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",
+        "picture": "https://i.ibb.co/5hBrCwD/realistic-3d-advert-with-controller-79603-1258.webp",
+        "price": "16.99",
+        "rating": 4.7,
+        "reviews": 258,
+        "instructor": "Annie Cochran",
+        "topics": [
+            "Learn C# from scratch. A powerful modern language.",
+            "Get experience using Unity 2020 - a very versatile 3D tool.",
+            "Gain an excellent general knowledge of video game design.",
+            "Make 2.5D and 3D games in Unity.",
+            "Transfer your knowledge to .NET, other languages, and more.",
+            "Learn how object oriented programming works in practice.",
+            "Develop a positive attitude to problem solving.",
+            "Practical exercises EVERY VIDEO to build actual skills."
+            
+        ],
+        "features": [
+            "30.5 hours on-demand video",
+            "4 articles",
+            "4 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1a4ad8fa46c8727e2",
-        "category_id": "15",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 25,
-        "reviews": 0,
-        "instructor": "Booth Gamble"
-        "topics": [],
-        "features": []
+        "category_id": "03",
+        "title": "Unreal Engine Blueprint Game Developer",
+        "description": "Code Your First Video Game in 100 minutes with Visual Scripting. Created in collaboration with Epic Games.",
+        "picture": "https://i.ibb.co/grRHn6V/special-forces-soldier-holding-assault-rifle-with-laser-sight-aims-target-studio-photo-against-dark.webp",
+        "price": "18.99",
+        "rating": 4.6,
+        "reviews": 269,
+        "instructor": "Booth Gamble",
+        "topics": [
+            "Create simple complete games to share with friends.",
+            "Develop using the Unreal Engine 4 editor.",
+            "Learn to program using Blueprints, without needing to write code.",
+            "Create and package playable game projects.",
+            "Model basic levels in BSP.",
+            "Understand how to use the Unreal Editor interface."
+        ],
+        "features": [
+            "10.5 hours on-demand video",
+            "1 article",
+            "2 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca126787123b3d415f4",
-        "category_id": "16",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 21,
-        "reviews": 0,
-        "instructor": "Sandy Marshall"
-        "topics": [],
-        "features": []
+        "category_id": "03",
+        "title": "Unreal C++ Multiplayer Master: Intermediate Game Development",
+        "description": "Make Local & Online Multiplayer Games. Improve Your Coding Programming Skills. Made In Collaboration With Epic Games.",
+        "picture": "https://i.ibb.co/pfTbXYF/unreal-engine-5-early-access-4k-wallpaper-2-24af-h720-jpg-242310155.jpg",
+        "price": "17.99",
+        "rating": 4.7,
+        "reviews": 289,
+        "instructor": "Sandy Marshall",
+        "topics": [
+            "Make your own local and online multiplayer games using Unreal Engine and C++ and Blueprints",
+            "Learn fundamental multiplayer theory and concepts you can apply in your own games",
+            "Use the Steam API to play your game against your friends online",
+            "Build User Interfaces using Unreal Motion Graphics UI Designer",
+            "Create games using Local Area Networks (LANs)",
+            "Gain an understanding for how servers and computers networks connect"
+        ],
+        "features": [
+            "24.5 hours on-demand video",
+            "8 articles",
+            "3 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca12a71856e2cb3b955",
-        "category_id": "17",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 29,
-        "reviews": 0,
-        "instructor": "Debora Michael"
-        "topics": [],
-        "features": []
+        "category_id": "03",
+        "title": "Learn Blender 3D Modeling for Unity Video Game Development",
+        "description": "Learn to Create or Edit Props, Design Levels, Apply Material and Simple Animations using Blender 3D for Unity Developers",
+        "picture": "https://i.ibb.co/vdKsTt7/0be39d08d7aa67a0f77b4456d8972046-portfolio-examples-wireframe.jpg",
+        "price": "15.99",
+        "rating": 4.8,
+        "reviews": 282,
+        "instructor": "Debora Michael",
+        "topics": [
+            "Create your own Unity props with confidence using Blender 3D",
+            "Make adjustments to Unity Assets by editing them in Blender",
+            "Learn how to make a variety of low-poly models for your video game projects",
+            "Learn about applying Materials, Textures & UVs",
+            "Basic Animation Techniques for both Unity and Blender",
+            "Learn the Blender Features that appeal to video game developers specifically"
+        ],
+        "features": [
+            "11.5 hours on-demand video",
+            "4 articles",
+            "3 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1c76d50518c57bd68",
-        "category_id": "18",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 39,
-        "reviews": 0,
-        "instructor": "Christa Chapman"
-        "topics": [],
-        "features": []
+        "category_id": "03",
+        "title": "All About Gaming Industry Careers & Game Design Fundamentals",
+        "description": "2 courses in 1. Explore Career Paths in the Gaming Industry and the Fundamentals of Game Design",
+        "picture": "https://i.ibb.co/k6dSPc5/vr-virtual-reality-equipment-table-127657-18080.webp",
+        "price": "16.99",
+        "rating": 4.7,
+        "reviews": 310,
+        "instructor": "Christa Chapman",
+        "topics": [
+            "Understand the roles in game development",
+            "Learn the Fundamentals of Game Design",
+            "Generating and drafting ideas for games",
+            "Mechanics, dynamics, and systems in game design",
+            "The phases of game development",
+            "Find out if a career in the gaming industry is for you",
+            "Preparing for a job in the game industry"
+        ],
+        "features": [
+            "5 hours on-demand video",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca17c858ee6a550746f",
