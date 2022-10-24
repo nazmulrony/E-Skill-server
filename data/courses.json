@@ -1,0 +1,472 @@
+[
+    {
+        "id": "6356bca195ff33aeb8f1023c",
+        "category_id": "01",
+        "title": "Javascript for Beginners",
+        "description": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+        "picture": "https://i.ibb.co/Tv91BjF/turned-gray-laptop-computer-400718-47.webp",
+        "price": "16.99",
+        "rating": 4.4,
+        "reviews": 165,
+        "instructor": "Elinor Mitchell",
+        "topics": ["Extensive, informative and interesting video lecture",
+        "Complete Code demonstrated in lecture",
+        "Lab Exercises",
+        "Lab Solution Sets",
+        "All Powerpoint Demonstrations Used in Course",
+        "Instructor contact Email for questions and clarifications",
+        "Coverage of all important primary Javascript concepts"
+        ],
+        "features": [
+        "2.5 hours on-demand video",
+        "1 article",
+        "1 downloadable resource",
+        "6 coding exercises",
+        "Full lifetime access",
+        "Access on mobile and TV",
+        "Certificate of completion"
+        ]
+
+    },
+    {
+        "id": "6356bca190e61ad514f96071",
+        "category_id": "01",
+        "title": "Modern React with Redux",
+        "description": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+        "picture": "https://i.ibb.co/y4VyS8m/hand-drawn-web-developers-23-2148819604.webp",
+        "price": "19.99",
+        "rating": 4.6,
+        "reviews": 232,
+        "instructor": "Sheila Wyatt",
+        "topics": [
+            "Create dynamic web apps using the latest in web technology",
+            "Acquire the programming skills needed to obtain a software engineering job",
+            "Practice your skills with many large projects, exercises, and quizzes",
+            "Master the fundamentals concepts behind React and Redux",
+            "Become fluent in the toolchain supporting React, including NPM, Webpack, Babel, and ES6/ES2015 Javascript syntax",
+            "Be the engineer who explains how Redux works to everyone else, because you know the fundamentals so well",
+            "Realize the power of building reusable components"
+        ],
+        "features": [
+            "52 hours on-demand video",
+            "38 articles",
+            "231 downloadable resources",
+            "18 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
+    },
+    {
+        "id": "6356bca1445868a478546216",
+        "category_id": "01",
+        "title": "The Web Developer Bootcamp 2022",
+        "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+        "picture": "https://i.ibb.co/jMSJDqb/online-web-design-53876-95309.webp",
+        "price": "20.00",
+        "rating": 4.3,
+        "reviews": 110,
+        "instructor": "Bettie Payne",
+        "topics": [
+            "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+            "Make REAL web applications using cutting-edge technologies",
+            "Create responsive, accessible, and beautiful layouts",
+            "Recognize and prevent common security exploits like SQL-Injection & XSS",
+            "Continue to learn and grow as a developer, long after the course ends",
+            "Create a blog application from scratch using Node, Express, and MongoDB.",
+            "Create a complicated yelp-like application from scratch",
+            "Deploy your applications and work with cloud databases"
+
+        ],
+        "features": [
+            "63.5 hours on-demand video",
+            "42 articles",
+            "116 downloadable resources",
+            "62 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+
+        ]
+    },
+    {
+        "id": "6356bca1d902b7af2a5dd972",
+        "category_id": "01",
+        "title": "Step-by-step HTML and CSS for Absolute Beginners",
+        "description": "Learn how to code HTML5 + CSS3 to create your own website in this beginner-level course. No coding experience required!",
+        "picture": "https://i.ibb.co/P93xsk1/programmer-working-with-css-52683-24172.webp",
+        "price": "15.99",
+        "rating": 4.5,
+        "reviews": 186,
+        "instructor": "Darcy Mcleod",
+        "topics": [
+            "In this course, we'll create a simple Coming Soon webpage using valid HTML5 and CSS3 code",
+            "We'll focus on WHY the code we write looks the way it does –– so you can develop an intuitive understanding of how HTML and CSS work",
+            "By the end of this course, you'll be able to use HTML and CSS with confidence, following best practices every step of the way!"
+        ],
+        "features": [
+            "4 hours on-demand video",
+            "6 articles",
+            "5 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
+    },
+    {
+        "id": "6356bca1ebd0de20556842ca",
+        "category_id": "01",
+        "title": "Node.js for Beginners - Become a Node js Developer + Project",
+        "description": "Build an Amazing CMS system - Using Express + MongoDB + Bootstrap - Handlebars + Authentication + AJAX + Deployment",
+        "picture": "https://i.ibb.co/Z69csc4/abstract-creative-coding-illustration-with-world-map-modern-digital-tablet-desktop-background-top-vi.webp",
+        "price": "25.99",
+        "rating": 4.7,
+        "reviews": 315,
+        "instructor": "Holden Chen",
+        "topics": [
+            "To build Amazing NodeJS applications like the CMS we build here using Express, MongoDB and more",
+            "To deploy Nodejs Apps on the Cloud",
+            "To create Login and Registration system using NodeJS",
+            "To use Mongoose (ODM) - very similar to ORM",
+            "To create custom events",
+            "To import and export data",
+            "To use the Express FrameWork",
+            "To handle HTTP requests",
+            "To deal with Files",
+            "To use WebSockets - (Chat application)"
+        ],
+        "features": [
+            "23 hours on-demand video",
+            "1 article",
+            "6 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
+    },
+    {
+        "id": "6356bca1586aaed228b11487",
+        "category_id": "6",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 20,
+        "reviews": 0,
+        "instructor": "Nannie Vargas"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca172b4a80a6a317f28",
+        "category_id": "7",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 34,
+        "reviews": 0,
+        "instructor": "Pam Warner"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1ab16f80e317d56da",
+        "category_id": "8",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 29,
+        "reviews": 0,
+        "instructor": "Bowen Walter"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1d602e8f8a398e118",
+        "category_id": "9",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 34,
+        "reviews": 0,
+        "instructor": "Diane Jackson"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca125dcaf1d20842ae9",
+        "category_id": "10",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 27,
+        "reviews": 0,
+        "instructor": "Schneider Vang"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca12c5e87bd09f897ac",
+        "category_id": "11",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 27,
+        "reviews": 0,
+        "instructor": "Henry Waller"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1690572a7b0c09dd2",
+        "category_id": "12",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 37,
+        "reviews": 0,
+        "instructor": "Ila Myers"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1bc728a5eca2f47f2",
+        "category_id": "13",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 32,
+        "reviews": 0,
+        "instructor": "Olson Nunez"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1aeea71fb993fda9a",
+        "category_id": "14",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 32,
+        "reviews": 0,
+        "instructor": "Annie Cochran"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1a4ad8fa46c8727e2",
+        "category_id": "15",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 25,
+        "reviews": 0,
+        "instructor": "Booth Gamble"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca126787123b3d415f4",
+        "category_id": "16",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 21,
+        "reviews": 0,
+        "instructor": "Sandy Marshall"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca12a71856e2cb3b955",
+        "category_id": "17",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 29,
+        "reviews": 0,
+        "instructor": "Debora Michael"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1c76d50518c57bd68",
+        "category_id": "18",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 39,
+        "reviews": 0,
+        "instructor": "Christa Chapman"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca17c858ee6a550746f",
+        "category_id": "19",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 36,
+        "reviews": 0,
+        "instructor": "Yates Bruce"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1a5832ba860a5eefe",
+        "category_id": "20",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 32,
+        "reviews": 0,
+        "instructor": "Tammy Levine"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1d5a88bb2b4b33337",
+        "category_id": "21",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 20,
+        "reviews": 0,
+        "instructor": "Monica Hurley"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1929d09b662e7a0eb",
+        "category_id": "22",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 22,
+        "reviews": 0,
+        "instructor": "Brewer Lowery"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1ed2f42abe7ae4fad",
+        "category_id": "23",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 22,
+        "reviews": 0,
+        "instructor": "Alvarez Rodriguez"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca153640dab22ba65aa",
+        "category_id": "24",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 24,
+        "reviews": 0,
+        "instructor": "Angelique Mejia"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca12b1b3ba3eb1cc87a",
+        "category_id": "25",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 21,
+        "reviews": 0,
+        "instructor": "Mitchell Brewer"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1b90360abda15759d",
+        "category_id": "26",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 37,
+        "reviews": 0,
+        "instructor": "Blanchard Mcbride"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1aa501520eb4f9bad",
+        "category_id": "27",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 24,
+        "reviews": 0,
+        "instructor": "Bolton Mckinney"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1afe758ea5d1891de",
+        "category_id": "28",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 24,
+        "reviews": 0,
+        "instructor": "Corinne Holman"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca130852573209844f9",
+        "category_id": "29",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 38,
+        "reviews": 0,
+        "instructor": "Esther Valdez"
+        "topics": [],
+        "features": []
+    },
+    {
+        "id": "6356bca1a96795534ccf4a57",
+        "category_id": "30",
+        "title": "",
+        "description": "",
+        "picture": "http://placehold.it/32x32",
+        "price": "",
+        "rating": 38,
+        "reviews": 0,
+        "instructor": "Clarke Tucker"
+        "topics": [],
+        "features": []
+    }
+]
