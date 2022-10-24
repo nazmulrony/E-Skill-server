@@ -9,24 +9,24 @@
         "rating": 4.4,
         "reviews": 165,
         "instructor": "Elinor Mitchell",
-        "topics": ["Extensive, informative and interesting video lecture",
-        "Complete Code demonstrated in lecture",
-        "Lab Exercises",
-        "Lab Solution Sets",
-        "All Powerpoint Demonstrations Used in Course",
-        "Instructor contact Email for questions and clarifications",
-        "Coverage of all important primary Javascript concepts"
+        "topics": [
+            "Extensive, informative and interesting video lecture",
+            "Complete Code demonstrated in lecture",
+            "Lab Exercises",
+            "Lab Solution Sets",
+            "All Powerpoint Demonstrations Used in Course",
+            "Instructor contact Email for questions and clarifications",
+            "Coverage of all important primary Javascript concepts"
         ],
         "features": [
-        "2.5 hours on-demand video",
-        "1 article",
-        "1 downloadable resource",
-        "6 coding exercises",
-        "Full lifetime access",
-        "Access on mobile and TV",
-        "Certificate of completion"
+            "2.5 hours on-demand video",
+            "1 article",
+            "1 downloadable resource",
+            "6 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
         ]
-
     },
     {
         "id": "6356bca190e61ad514f96071",
@@ -76,7 +76,6 @@
             "Create a blog application from scratch using Node, Express, and MongoDB.",
             "Create a complicated yelp-like application from scratch",
             "Deploy your applications and work with cloud databases"
-
         ],
         "features": [
             "63.5 hours on-demand video",
@@ -86,7 +85,6 @@
             "Full lifetime access",
             "Access on mobile and TV",
             "Certificate of completion"
-
         ]
     },
     {
@@ -159,7 +157,6 @@
             "Fully understand the architecture behind an Angular application and how to use it",
             "Use the gained, deep understanding of the Angular fundamentals to quickly establish yourself as a frontend developer",
             "Create single-page applications with one of the most modern JavaScript frameworks out there"
-
         ],
         "features": [
             "34.5 hours on-demand video",
@@ -169,7 +166,6 @@
             "Access on mobile and TV",
             "Assignments",
             "Certificate of completion"
-
         ]
     },
     {
@@ -373,7 +369,6 @@
             "Learn how object oriented programming works in practice.",
             "Develop a positive attitude to problem solving.",
             "Practical exercises EVERY VIDEO to build actual skills."
-            
         ],
         "features": [
             "30.5 hours on-demand video",
@@ -493,158 +488,326 @@
     },
     {
         "id": "6356bca17c858ee6a550746f",
-        "category_id": "19",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 36,
-        "reviews": 0,
-        "instructor": "Yates Bruce"
-        "topics": [],
-        "features": []
+        "category_id": "04",
+        "title": "Java In-Depth: Become a Complete Java Engineer!",
+        "description": "Comprehensive Java programming course integrated with design principles, best practices & instructor-led Java EE project",
+        "picture": "https://i.ibb.co/XX3kV67/Java-19-comes-with-an-open-source-twist-All-you-need-to-know.jpg",
+        "price": "19.99",
+        "rating": 4.6,
+        "reviews": 278,
+        "instructor": "Yates Bruce",
+        "topics": [
+            "Gain in-depth understanding of core & advanced features of Java including JVM internals",
+            "Master design principles, best practices and coding conventions for writing well-designed, professional Java code",
+            "Get real-world experience by developing an instructor-led Java EE-based Web application using technologies like JSP, Servlets and MySQL",
+            "Set firm foundation in Java for the rest of your career. That's a promise!",
+            "Master Object-Oriented Programming concepts by using a real-world application as a case study",
+            "Master Exceptions, IO, Collections Framework, Generics, Multi-threading, Databases, etc. with best practices"
+        ],
+        "features": [
+            "67 hours on-demand video",
+            "39 articles",
+            "292 downloadable resources",
+            "15 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Assignments",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1a5832ba860a5eefe",
-        "category_id": "20",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 32,
-        "reviews": 0,
-        "instructor": "Tammy Levine"
-        "topics": [],
-        "features": []
+        "category_id": "04",
+        "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+        "picture": "https://i.ibb.co/X5Jh0ns/programming-code-abstract-technology-background-software-developer-computer-script-34663-31.webp",
+        "price": "18.99",
+        "rating": 4.4,
+        "reviews": 356,
+        "instructor": "Tammy Levine",
+        "topics": [
+            "You will learn how to leverage the power of Python to solve tasks.",
+            "You will build games and programs that use Python libraries.",
+            "You will be able to use Python for your own work problems or personal projects.",
+            "You will create a portfolio of Python based projects you can share.",
+            "Learn to use Python professionally, learning both Python 2 and Python 3!",
+            "Create games with Python, like Tic Tac Toe and Blackjack!"
+        ],
+        "features": [
+            "22 hours on-demand video",
+            "14 articles",
+            "19 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1d5a88bb2b4b33337",
-        "category_id": "21",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 20,
-        "reviews": 0,
-        "instructor": "Monica Hurley"
-        "topics": [],
-        "features": []
+        "category_id": "04",
+        "title": "Beginning C++ Programming - From Beginner to Beyond",
+        "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
+        "picture": "https://i.ibb.co/3vDgnkZ/bh1-1024x725-1.jpg",
+        "price": "16.99",
+        "rating": 4.5,
+        "reviews": 222,
+        "instructor": "Monica Hurley",
+        "topics": [
+            "Learn to program with one of the most powerful programming languages that exists today, C++.",
+            "Obtain the key concepts of programming that will also apply to other programming languages",
+            "Learn Modern C++ rather than an obsolete version of C++ that most other courses teach",
+            "Learn C++ features from basic to more advanced such as inheritance and polymorphic functions",
+            "Learn C++ using a proven curriculum that covers more material than most C++ university courses",
+            "Learn C++ from an experienced university full professor who has been using and teaching C++ for more than 25 years"
+        ],
+        "features": [
+            "46 hours on-demand video",
+            "2 articles",
+            "53 downloadable resources",
+            "37 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Assignments",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1929d09b662e7a0eb",
-        "category_id": "22",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 22,
-        "reviews": 0,
-        "instructor": "Brewer Lowery"
-        "topics": [],
-        "features": []
+        "category_id": "04",
+        "title": "C# 10 | Ultimate Guide - Beginner to Advanced | Master class",
+        "description": "Learn C# by doing | C# projects | Bootcamp for C# Interview | Advanced C# | Collections | LINQ | Interview Questions",
+        "picture": "https://i.ibb.co/cLmM4FT/wp8591267.jpg",
+        "price": "16.99",
+        "rating": 4.4,
+        "reviews": 136,
+        "instructor": "Brewer Lowery",
+        "topics": [
+            "Confidently speak about most of the essential concepts of C#",
+            "Crack C# job interviews easier",
+            "Solve most common bugs and issues in C# applications",
+            "Understand further technologies of .net (in future), such as Asp .Net, Asp .Net Core, Xamarin etc. easier, with strong-base knowledge of C#",
+            "Create C# Apps from scratch and scale it up to any level",
+            "Write OOP code easier with industry-standards and best practices like a Pro"
+        ],
+        "features": [
+            "60.5 hours on-demand video",
+            "3 articles",
+            "367 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Assignments",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1ed2f42abe7ae4fad",
-        "category_id": "23",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 22,
-        "reviews": 0,
-        "instructor": "Alvarez Rodriguez"
-        "topics": [],
-        "features": []
+        "category_id": "04",
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "description": "he modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "picture": "https://i.ibb.co/rt0w4HP/javascript-696x458.jpg",
+        "price": "18.99",
+        "rating": 4.8,
+        "reviews": 456,
+        "instructor": "Jonas Schmedtmann",
+        "topics": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "How to think and work like a developer: problem-solving, researching, workflows",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
+        ],
+        "features": [
+            "69 hours on-demand video",
+            "22 articles",
+            "18 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca153640dab22ba65aa",
-        "category_id": "24",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 24,
-        "reviews": 0,
-        "instructor": "Angelique Mejia"
-        "topics": [],
-        "features": []
+        "category_id": "04",
+        "title": "React JS Web Development - The Essentials Bootcamp",
+        "description": "Bootcamp on the React.js essentials. Gain a strong foundation of the core concepts, and build exciting and useful apps!",
+        "picture": "https://i.ibb.co/9vjGFz1/0-kby-Br-Wmgg-SPYVgwx.png",
+        "price": "20.99",
+        "rating": 4.4,
+        "reviews": 259,
+        "instructor": "Angelique Mejia",
+        "topics": [
+            "Learn React the right and learn best practices.",
+            "Dive into the React engine, and learn how it works under the hood.",
+            "See how React fits in the big picture of web development.",
+            "Learn how to build applications from scratch.",
+            "Cover the crucial concepts of bundling and transpiling, and create frontend application build systems."
+        ],
+        "features": [
+            "12 hours on-demand video",
+            "8 articles",
+            "10 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca12b1b3ba3eb1cc87a",
         "category_id": "25",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 21,
-        "reviews": 0,
-        "instructor": "Mitchell Brewer"
-        "topics": [],
-        "features": []
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "picture": "https://i.ibb.co/yVBxyxJ/app-development-illustration-52683-47931.webp",
+        "price": "24.99",
+        "rating": 4.7,
+        "reviews": 263,
+        "instructor": "Mitchell Brewer",
+        "topics": [
+            "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company",
+            "You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData.",
+            "You will learn by doing, where every lesson is incorporated into a real-world app project.",
+            "After the course, you will be able to build any app you want.",
+            "Start your own app based business",
+            "Become a digital nomad by working as a freelance iOS developer"
+        ],
+        "features": [
+            "59.5 hours on-demand video",
+            "114 articles",
+            "12 downloadable resources",
+            "12 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1b90360abda15759d",
-        "category_id": "26",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 37,
-        "reviews": 0,
-        "instructor": "Blanchard Mcbride"
-        "topics": [],
-        "features": []
+        "category_id": "05",
+        "title": "Mobile Development Architecture",
+        "description": "Native Apps, Web Apps, Progressive Web Apps, Hybrid Apps, Web-Native Apps or Cross-Compiled Apps. Learn how to choose",
+        "picture": "https://i.ibb.co/cvKj4C6/gradient-smartphone-isometric-technology-background-52683-6157.webp",
+        "price": "14.99",
+        "rating": 4.4,
+        "reviews": 180,
+        "instructor": "Blanchard Mcbride",
+        "topics": [
+            "Find the best fit for their next project",
+            "Have a clear big picture over mobile development solutions",
+            "Have a solid understanding of how mobile technologies compare",
+            "Find good strategy for deep diving into new learnings"
+        ],
+        "features": [
+            "2.5 hours on-demand video",
+            "6 articles",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1aa501520eb4f9bad",
-        "category_id": "27",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 24,
-        "reviews": 0,
-        "instructor": "Bolton Mckinney"
-        "topics": [],
-        "features": []
+        "category_id": "05",
+        "title": "The Complete React Native + Hooks Course",
+        "description": "Understand React Native with Hooks, Context, and React Navigation.",
+        "picture": "https://i.ibb.co/pyz0ZTJ/1-C3kxj-Cr-Jy-a-WSMpe2chfa-A.png",
+        "price": "15.99",
+        "rating": 4.4,
+        "reviews": 235,
+        "instructor": "Bolton Mckinney",
+        "topics": [
+            "Create real-world native apps using React Native",
+            "Make truly reusable components that look great",
+            "Understand the terminology and concepts of Redux",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Get up to speed with React design principles and methodologies",
+            "Discover mobile design patterns used by experienced engineers"
+        ],
+        "features": [
+            "38 hours on-demand video",
+            "38 articles",
+            "118 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1afe758ea5d1891de",
-        "category_id": "28",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 24,
-        "reviews": 0,
-        "instructor": "Corinne Holman"
-        "topics": [],
-        "features": []
+        "category_id": "05",
+        "title": "Android Java Masterclass - Become an App Developer",
+        "description": "Improve your career options by learning Android app Development. Master Android Studio and build your first app today",
+        "picture": "https://i.ibb.co/jH1wx9Y/thoughtful-android-robot-3d-illustration-contains-clipping-path-1401-1044.webp",
+        "price": "17.99",
+        "rating": 4.4,
+        "reviews": 235,
+        "instructor": "Corinne Holman",
+        "topics": [
+            "You’re taught step by step HOW to build Android 7 apps for Google’s Nougat platform that will work on older Android versions.",
+            "With each comprehensive step, the WHY you’re doing it is explained.",
+            "You’ll have EXPERT LEVEL knowledge of the Java programming language and know exactly how each process of Android Nougat development works.",
+            "The course is continually UPDATED, so you’ll learn the very latest as Android Nougat evolves.",
+            "NEW CONTENT is always being added, and you're covered with full lifetime access to the course.",
+            "SUPPORT is mind blowing – questions you have are answered that day."
+        ],
+        "features": [
+            "60 hours on-demand video",
+            "11 articles",
+            "8 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca130852573209844f9",
-        "category_id": "29",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 38,
-        "reviews": 0,
-        "instructor": "Esther Valdez"
-        "topics": [],
-        "features": []
+        "category_id": "05",
+        "title": "The Complete Flutter UI Masterclass | iOS, Android, & Web",
+        "description": "Learn how to build beautiful and responsive iOS, Android, and Web user interfaces using Flutter and Dart!",
+        "picture": "https://i.ibb.co/NNCsLrH/charity-app-concept-23-2148608518.webp",
+        "price": "19.99",
+        "rating": 4.8,
+        "reviews": 235,
+        "instructor": "Esther Valdez",
+        "topics": [
+            "Build beautiful mobile and web UI with Flutter and Dart",
+            "Learn how to implement basic and advanced Flutter widgets",
+            "Design and implement your own custom widgets",
+            "Visualize data with Flutter"
+        ],
+        "features": [
+            "7 hours on-demand video",
+            "1 article",
+            "6 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     },
     {
         "id": "6356bca1a96795534ccf4a57",
-        "category_id": "30",
-        "title": "",
-        "description": "",
-        "picture": "http://placehold.it/32x32",
-        "price": "",
-        "rating": 38,
-        "reviews": 0,
-        "instructor": "Clarke Tucker"
-        "topics": [],
-        "features": []
+        "category_id": "05",
+        "title": "Mobile App Development with Flutter & Dart (iOS and Android)",
+        "description": "The Complete iOS and Android Mobile App Development Course with Flutter and Dart (2022).",
+        "picture": "https://i.ibb.co/N19KT33/app-development-banner-33099-1720.webp",
+        "price": "15.99",
+        "rating": 4.5,
+        "reviews": 165,
+        "instructor": "Clarke Tucker",
+        "topics": [
+            "Learn Dart programming language step-by-step, from the very beginning.",
+            "Learn how to build awesome mobile apps for both Android and iOS with a single codebase.",
+            "Create an excellent portfolio of iOS and Android apps to show off.",
+            "Embed and utilize Google’s Machine Learning Models in the apps.",
+            "Monetize the apps with in-app ad banners and interstitial ads (Google AdMob).",
+            "Create stunning in-app animations."
+        ],
+        "features": [
+            "27.5 hours on-demand video",
+            "16 articles",
+            "5 downloadable resources",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ]
     }
 ]
